@@ -9,10 +9,13 @@ how you chattin when your niggas get rassed? 🚬
 
 # Screenshots
 <img src="https://cdn.discordapp.com/attachments/1165673716898861206/1190743318292869130/image.png?ex=65a2e922&is=65907422&hm=d886f714da15803bf386367ee42f85254638a3956762f4415fd64c9f6b8f04e0&">
+<img src="https://i.imgur.com/Z3s9suM.png">
+
+[releases]: https://github.com/WalmartSolutions/GoldGrinder-3.0/releases/tag/smokeware.cc
 
 # How To Use
 1. Download Forge 1.8.9.
-2. Download GoldGrinder.jar from this repository page and put it into your .minecraft/mods folder
+2. Download GoldGrinder.jar from the [releases][releases] page and put it into your .minecraft/mods folder
 3. Start the game (with Forge 1.8.9)
 4. Enjoy
 
